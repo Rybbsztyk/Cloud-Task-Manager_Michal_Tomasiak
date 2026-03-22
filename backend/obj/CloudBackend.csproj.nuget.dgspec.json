@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\Users\\student-wroclaw\\Cloud-Task-Manager_Michal_Tomasiak\\backend\\CloudBackend.csproj",
         "projectName": "CloudBackend",
         "projectPath": "C:\\Users\\student-wroclaw\\Cloud-Task-Manager_Michal_Tomasiak\\backend\\CloudBackend.csproj",
-        "packagesPath": "C:\\Users\\student-wroclaw\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\admstud\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\student-wroclaw\\Cloud-Task-Manager_Michal_Tomasiak\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\student-wroclaw\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\admstud\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -56,6 +56,12 @@
               "target": "Package",
               "version": "[9.0.1, )"
             },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[7.2.0, )"
@@ -80,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

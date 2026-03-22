@@ -15,5 +15,6 @@ Ten projekt został zaplanowany z myślą o usługach PaaS (Platform as a Servic
 * [x] **Artefakt 1:** Zaplanowano strukturę folderów i diagram C4 (dostępny w `/docs`).
 * [X] **Artefakt 2:** Konfiguracja środowiska Docker (w trakcie...).
 * [X] **Artefakt 3:** Utworzenie frontedu pliku .env akutalizacja dokrefile.
- *[X] **Artefakt 4:** Połączenie Frontendu i Backendu
+* [X] **Artefakt 4:** Połączenie Frontendu i Backendu
+* [X] **Artefakt 5:** System gotowy na chmure 
 > **Informacja:** Ten plik będzie ewoluował. W kolejnych etapach dodamy tutaj sekcje 'Quick Start', opis zmiennych środowiskowych oraz instrukcję wdrożenia (CI/CD).
