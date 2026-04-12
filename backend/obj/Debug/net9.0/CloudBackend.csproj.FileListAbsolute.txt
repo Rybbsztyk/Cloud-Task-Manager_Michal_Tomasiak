@@ -178,3 +178,11 @@ C:\Users\student-wroclaw\Cloud-Task-Manager_Michal_Tomasiak\backend\obj\Debug\ne
 C:\Users\student-wroclaw\Cloud-Task-Manager_Michal_Tomasiak\backend\obj\Debug\net9.0\CloudBackend.pdb
 C:\Users\student-wroclaw\Cloud-Task-Manager_Michal_Tomasiak\backend\obj\Debug\net9.0\CloudBackend.genruntimeconfig.cache
 C:\Users\student-wroclaw\Cloud-Task-Manager_Michal_Tomasiak\backend\obj\Debug\net9.0\ref\CloudBackend.dll
+C:\Users\student-wroclaw\Cloud-Task-Manager_Michal_Tomasiak\backend\bin\Debug\net9.0\publish\web.config
+C:\Users\student-wroclaw\Cloud-Task-Manager_Michal_Tomasiak\backend\bin\Debug\net9.0\publish\appsettings.Development.json
+C:\Users\student-wroclaw\Cloud-Task-Manager_Michal_Tomasiak\backend\bin\Debug\net9.0\publish\appsettings.json
+C:\Users\student-wroclaw\Cloud-Task-Manager_Michal_Tomasiak\backend\bin\Debug\net9.0\publish\CloudBackend.deps.json
+C:\Users\student-wroclaw\Cloud-Task-Manager_Michal_Tomasiak\backend\bin\Debug\net9.0\publish\CloudBackend.runtimeconfig.json
+C:\Users\student-wroclaw\Cloud-Task-Manager_Michal_Tomasiak\backend\bin\Debug\net9.0\publish\CloudBackend.staticwebassets.endpoints.json
+C:\Users\student-wroclaw\Cloud-Task-Manager_Michal_Tomasiak\backend\bin\Debug\net9.0\publish\package-lock.json
+C:\Users\student-wroclaw\Cloud-Task-Manager_Michal_Tomasiak\backend\bin\Debug\net9.0\publish\package.json
