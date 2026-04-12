@@ -24,7 +24,7 @@ jobs:
           VITE_API_URL: https://cloud-task-manager-100439-e6ghgtbueaemh9fe.francecentral-01.azurewebsites.net
 
       - name: Upload
-        uses: actions/upload-artifact@v
+        uses: actions/upload-artifact@v4
         with:
           name: node-app
           path: frontend/dist/
